@@ -11,9 +11,10 @@ In this project, I used Stack Overflow Developer Survey, 2017 to get answers of 
 3- Which FormalEducation has the highest CareerSatisfaction? <br>
 
 ## File Descriptions
-There are two files for dataset as Udacity provided in the Data Since
+There are two csv files for dataset as Udacity provided in the Data Scientist Nanodegree. This is [Stack Overflow Developer Survey, 2017](https://www.kaggle.com/stackoverflow/so-survey-2017#survey_results_public.csv). There is one jupyter notebook file for analysis.
 
+## Results
+The main findings of the code can be found at the post available here.
 
-
-
-I used [Stack Overflow Developer Survey, 2017](https://www.kaggle.com/stackoverflow/so-survey-2017#survey_results_public.csv) dataset as Udacity provided. There are two files( survey_results_public.csv, survey_results_schema.csv )  
+## Licensing, Authors, Acknowledgements
+Many Thanks for Stack OverFlow for given this dataset availabel. I found the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017#survey_results_public.csv). These Data is directly taken from [StackOverflow](https://insights.stackoverflow.com/survey/) and licensed under the [ODbL license](https://opendatacommons.org/licenses/odbl/1.0/).
