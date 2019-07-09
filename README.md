@@ -21,7 +21,7 @@ In this project, I used Stack Overflow Developer Survey, 2017 to get answers of 
 There are two csv files for dataset as Udacity provided in the Data Scientist Nanodegree. This is [Stack Overflow Developer Survey, 2017](https://www.kaggle.com/stackoverflow/so-survey-2017#survey_results_public.csv). There is one jupyter notebook file for analysis.
 
 ## Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@laila.alqawain/is-your-dream-to-be-a-professional-developer-fef0bd5fbec9).
 
 ## Licensing, Authors, Acknowledgements
 Many Thanks for Stack OverFlow for given this dataset availabel. I found the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017#survey_results_public.csv). These Data is directly taken from [StackOverflow](https://insights.stackoverflow.com/survey/) and licensed under the [ODbL license](https://opendatacommons.org/licenses/odbl/1.0/).
