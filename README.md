@@ -5,12 +5,13 @@ I used Anaconda distribution of Python. I imported some libraries like pandas, n
 
 ## Project Motivation
 In this project, I used Stack Overflow Developer Survey, 2017 to get answers of these questions:<br>
+
 1- What are the most common Country, EmploymentStatus, FormalEducation, and Professional?<br>
-
 2- what is the formal education has the highest career satisfaction by professional developer respondents?<br>
-
 3- Which FormalEducation has the highest CareerSatisfaction? <br>
 
+## File Descriptions
+There are two files for dataset as Udacity provided in the Data Since
 
 
 
