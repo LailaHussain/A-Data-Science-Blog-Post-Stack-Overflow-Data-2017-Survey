@@ -2,10 +2,10 @@
 
 # Table of Contents
 1. [Installation](#installation)
-2. [Project Motivation](#projectmotivation)
-3. [File Descriptions](#filedescriptions)
+2. [Project Motivation](#project-motivation)
+3. [File Descriptions](#file-descriptions)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensingauthorsandacknowledgements)
+5. [Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)
 
 ## Installation
 I used Anaconda distribution of Python. I imported some libraries like pandas, numpy, and matplotlib. The code will run with no issues using Python versions 3.
