@@ -5,7 +5,7 @@
 2. [Project Motivation](#project-motivation)
 3. [File Descriptions](#file-descriptions)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)
+5. [Licensing, Authors, and Acknowledgements](#licensing,-authors,-and-acknowledgements)
 
 ## Installation
 I used Anaconda distribution of Python. I imported some libraries like pandas, numpy, and matplotlib. The code will run with no issues using Python versions 3.
